@@ -1,0 +1,25 @@
+* {
+	margin: auto;
+	display: block;
+}
+
+.pink-relay {
+	background-color: #ff637e; /* Pink Background */
+	font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#agent-two {
+	color: #1447e6; /* Blue font */
+	font-size: 36px;
+}
+
+.relay-two {
+	font-size: 24px;
+}
+
+#agent-four {
+	background-color: #05df72; /* Light green */
+	font-size: 24px;
+	font-weight: bold;
+}
+
