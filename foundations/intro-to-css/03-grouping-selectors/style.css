@@ -1,0 +1,20 @@
+* {
+	margin: auto;
+}
+
+.button-one,
+.button-two {
+	font-size: 28px;
+	font-family: Helvetica, "Times New Roman", sans-serif;
+	margin: 10px;
+}
+
+.button-one {
+	color: #f8fafc; /* White */
+	background-color: #0c0a09; /* Black */
+	font-weight: bold;
+}
+
+.button-two {
+	background-color: #ffd230; /* Yellow */
+}
